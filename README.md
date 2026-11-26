@@ -21,7 +21,7 @@
 
 | Project | What it is |
 |---|---|
-| [**MozlattarScriptMaster**](https://github.com/mozalattar/mozlattarscriptmaster) | IT automation scripts for macOS and Windows: Intune packaging GUI, Lenovo warranty audits, clean removal of Microsoft Defender and AnyDesk. |
+| [**IT Automation Toolkit**](https://github.com/mozalattar/it-automation-toolkit) | IT automation scripts for macOS and Windows: Intune packaging GUI, Lenovo warranty audits, clean removal of Microsoft Defender and AnyDesk. |
 | [**Siegewatch**](https://mohammedalattarai.com/siegewatch) | A free website security check: about 60 outside-in checks (HTTPS, headers, DNS, email, exposed files, known flaws) scored out of 100, with fixes. |
 | [**mohammedalattarai.com**](https://mohammedalattarai.com) | My site, running fully on Cloudflare, with Mo·AI, an AI assistant that answers in English, Arabic, Japanese and French. |
 
